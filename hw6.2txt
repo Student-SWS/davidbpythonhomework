@@ -1,0 +1,10 @@
+(base) C:\Users\ssantangelo23>cd Downloads\python_data_ipy\session_06_multis\dir1\dir2b\dir3b
+
+(base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_06_multis\dir1\dir2b\dir3b>test3b
+this is file3b.txt
+
+
+(base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_06_multis\dir1\dir2b\dir3b>cd ..\..\
+
+(base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_06_multis\dir1>test1
+this is file1.txt
