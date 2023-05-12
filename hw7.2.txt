@@ -1,0 +1,10 @@
+  1    (base) C:\Users\ssantangelo23>cd Downloads\python_data_ipy\session_07_functions_power_tools\dir1\dir2a
+  2
+  3    (base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_07_functions_power_tools\dir1\dir2a>test2a.py
+  4    this is file4.txt
+  5
+  6
+  7    (base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_07_functions_power_tools\dir1\dir2a>cd ../dir2b/dir3b
+  8
+  9    (base) C:\Users\ssantangelo23\Downloads\python_data_ipy\session_07_functions_power_tools\dir1\dir2b\dir3b>test3b.py
+ 10    this is file3a.txt
